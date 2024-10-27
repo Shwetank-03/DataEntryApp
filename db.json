@@ -1,0 +1,26 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "shwetank verma",
+      "email": "shwetankverma2@gmail.com",
+      "roll": 66,
+      "mobile": 9876543234,
+      "city": "patna",
+      "score": 56
+    }
+  ],
+  "signup": [
+    {
+      "name": "Shwetank Verma",
+      "email": "shwetankverma2@gmail.com",
+      "mobile": 987654321,
+      "password": "jackhgf",
+      "id": 1
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
